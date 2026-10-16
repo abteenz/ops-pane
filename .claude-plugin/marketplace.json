@@ -1,0 +1,13 @@
+{
+  "name": "ops-pane",
+  "description": "Observe-only Claude Code mod: files touched, tool calls, subagents and context in a pane.",
+  "owner": {
+    "name": "abteenz"
+  },
+  "plugins": [
+    {
+      "name": "ops-pane",
+      "source": "./"
+    }
+  ]
+}

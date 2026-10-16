@@ -1,0 +1,9 @@
+{
+  "name": "ops-pane",
+  "version": "0.1.0",
+  "description": "Observe-only ops pane: files touched, recent tool calls, subagents, context and tokens; /ops toggles it, /ops-export writes the tool-call ledger as JSONL.",
+  "author": {
+    "name": "abteenz"
+  },
+  "types": "./types/index.d.ts"
+}
